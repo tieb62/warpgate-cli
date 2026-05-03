@@ -1,0 +1,5 @@
+{
+    "warpgate_url": "https://example.com/@warpgate",
+    "api_token": "your_api_token_here",
+    "refresh_frequency": 7
+}
