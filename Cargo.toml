@@ -3,6 +3,7 @@ name = "warpgate-cli"
 version = "0.1.0"
 edition = "2024"
 authors = ["TIEB62"]
+license = "MIT"
 
 [dependencies]
 chrono = { version = "0.4.44", features = ["serde"] }
